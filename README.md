@@ -4,7 +4,9 @@ For developing our front end for the database we have used customer table, booki
 The back end and front end are connected using python language.
 customer, movie, booking ticket, cashier and payment are the database entities
 
-The connection of postgre sql to python is achieved by psycopg2 which is the most popular PostgreSQL database adapter for the Python programming language.The linking of html files used for each of the webpage is done by using flask
+The connection of postgre sql to python is achieved by psycopg2 which is the most popular PostgreSQL database adapter for the Python programming language.
+
+The linking of html files used for each of the webpage is done by using flask
 
 
 First the login page will be displayed in the front end by the use of login.html file. 
